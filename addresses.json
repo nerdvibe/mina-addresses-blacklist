@@ -1,24 +1,30 @@
-[{
-  "address": "B62qr4AzfGPhK3G246q3LHEKngmWxgGSu3HCUjGkkUj9ssy2p1uf6Ly",
-  "info": "Clorio Phishing campaign on 10/12/2021"
-}, 
-{
-  "address": "B62qkwA2i7xjsUqhbm3zw3ELkaGEYurRSnJ2e8hpJUDiXPQMqgoU1jE",
-  "info": "10/12/2021 - Identified Scam Website: https://3xmina-airdrops.com/dot/index.html"
-},
-{
-  "address": "B62qpApmmSzJs6vntSdr75tS95xexwAdsynBYZkoZ87wQtmywZP8EcS",
-  "info": "Clorio Phishing campaign on 10/01/2022"
-},
-{
-  "address": "B62qotsuMVPA7yspMD2MhKZ7yw5Qq2cLB8Xob2LWKhiEh3MLLHhA7oD",
-  "info": "Clorio Phishing campaign on 10/01/2022"
-},
-{
-  "address": "B62qqR8PVD59oetpNoDgbYMdd7j4pNXpAohS695JnEuUgfdy5JAEqtF",
-  "info": "Clorio Phishing campaign on 10/01/2022"
-},
-{
-  "address": "B62qohhX6DtfREbM85avMw34uTZETurapYE6MFA5LsrPpyjqMvr4Vg1",
-  "info": "Clorio Phishing campaign on 10/01/2022"
-}]
+[
+  {
+    "address": "B62qr4AzfGPhK3G246q3LHEKngmWxgGSu3HCUjGkkUj9ssy2p1uf6Ly",
+    "info": "Clorio Phishing campaign on 10/12/2021"
+  },
+  {
+    "address": "B62qkwA2i7xjsUqhbm3zw3ELkaGEYurRSnJ2e8hpJUDiXPQMqgoU1jE",
+    "info": "10/12/2021 - Identified Scam Website: https://3xmina-airdrops.com/dot/index.html"
+  },
+  {
+    "address": "B62qpApmmSzJs6vntSdr75tS95xexwAdsynBYZkoZ87wQtmywZP8EcS",
+    "info": "Clorio Phishing campaign on 10/01/2022"
+  },
+  {
+    "address": "B62qotsuMVPA7yspMD2MhKZ7yw5Qq2cLB8Xob2LWKhiEh3MLLHhA7oD",
+    "info": "Clorio Phishing campaign on 10/01/2022"
+  },
+  {
+    "address": "B62qqR8PVD59oetpNoDgbYMdd7j4pNXpAohS695JnEuUgfdy5JAEqtF",
+    "info": "Clorio Phishing campaign on 10/01/2022"
+  },
+  {
+    "address": "B62qohhX6DtfREbM85avMw34uTZETurapYE6MFA5LsrPpyjqMvr4Vg1",
+    "info": "Clorio Phishing campaign on 10/01/2022"
+  },
+  {
+    "address": "B62qqXU8RB4cEkUMosHS6Kixab2vG6PMooJdCxKLA9d1WuP8yNMasrN",
+    "info": "MinaScamWatcher auto-report 2022-01-11T12:18:36.599Z - Memo \u0013www.clorio-mina.org"
+  }
+]
