@@ -6,8 +6,12 @@
 # mina-addresses-blacklist
 An opensource list of blacklisted addresses for the Mina Protocol Blockchain
 
+👉 Website: https://blacklist.mina.tools
+
+👉 API: https://raw.githubusercontent.com/nerdvibe/mina-addresses-blacklist/main/addresses.json
+
 ## How to contribute
-Create an issue on this repository with the evidence of the malicious address
+Create an issue or a Pull Request on this repository with the evidence of the malicious address.
 
 ## How to integrate the blacklist in your code
 
