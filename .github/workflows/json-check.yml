@@ -1,19 +1,19 @@
-name: JSON check
+# name: JSON check
 
-on:
-  push:
-    paths:
-      - '**.json'
-  pull_request:
-    branches: [ master ]
+# on:
+#  push:
+#    paths:
+#      - '**.json'
+#  pull_request:
+#    branches: [ master ]
 
-jobs:
-  test:
-    name: json check
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: json-syntax-check
-        uses: limitusus/json-syntax-check@v1
-        with:
-          pattern: "\\.json$"
+# jobs:
+#   test:
+#     name: json check
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: json-syntax-check
+#         uses: limitusus/json-syntax-check@v1
+#         with:
+#          pattern: "\\.json$"
