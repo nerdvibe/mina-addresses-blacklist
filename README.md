@@ -23,4 +23,4 @@ There can be  multiple usecases for integrating this list in your software. The 
 
 ## Who is mantaining the list?
 
-The list is mainly mantained by Carbonara from WeStake.Club ⚡️ , but this repository is opensource and anyone can contribute to improve the list by submitting an issue or a PR. The changes are approved by the key community members of the Mina ecosystem, such as @garethtdavies and @icohigh and @nerdvibe.
+The list is mainly mantained by Carbonara from WeStake.Club ⚡️ , but this repository is opensource and anyone can contribute to improve the list by submitting an issue or a PR. The changes are approved by the key community members of the Mina ecosystem, such as @garethtdavies and @icohigh, @wjdf, @EmrePiconbello and @nerdvibe.
